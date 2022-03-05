@@ -213,11 +213,11 @@ window.addEventListener('load', function(event){
             document.querySelectorAll(".video").forEach((el1) => {
                 if(el === el1){
                     el1.play();
-                    // x.pause();
+                    x.pause();
                 }
                 else{
                     el1.pause();
-                    // x.pause();
+                    x.pause();
                 }
             });
         }

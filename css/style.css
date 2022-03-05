@@ -333,12 +333,12 @@ p {
     font-size: 25px;
     font-weight: 700;
     margin-bottom: 21px;
-    color: #333;
+    color:#129CF3;
 }
 .left-feature-item p {
-    color: #333;
+    color:azure;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 500;
     line-height: 25px;
 }
 .feature-iphone img {
@@ -367,15 +367,15 @@ p {
     font-size: 25px;
     font-weight: 700;
     margin-bottom: 21px;
-    color: #333;
+    color: #129CF3;
     
     
 }
 .right-feature-item p {
  
-    color: #333;
+    color: azure;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 500;
     line-height: 25px;
 }
 
@@ -385,8 +385,9 @@ p {
 }
 
 .bgimg{
-    background-image: url("../gallery/IMG_20220119_205013.jpg");
+    background-image: url("../gallery/SAVE_20220119_204507.jpg");
 }
+
 
 /* ========= Purchase Now ============= */
 .purchase-now {
